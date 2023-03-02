@@ -1,0 +1,44 @@
+Standup Meeting
+
+Agenda :  
+1) what you did 
+2) what you need to do next
+3) what is blocking you.
+4) Paper discussion
+
+
+Minutes:
+
+Sandeep: 
+read the assignment documentation for SE-HW3, 
+reviewed the research paper published in Big Data Engineering and came up with a one paragraph summary of the technology. 
+finished Assignment 2 of Big Data Engineering. 
+Next Steps: Mock Technical Interview with Aruj
+Blocks: 
+
+Mohith: 
+
+
+Dhruveel: 
+What I did: Worked on AML assignment 1. Built a Logistic Regression model. 
+Next Steps: I have to write a report the same. 
+What is blocking me: I am new to machine learning so I have to read a lot of documentation to do the assignment. This process is time consuming and is blocking me.
+
+Aruj:-
+Today I completed my compulsory reading for Apache Spark, which will be useful in the course Big Data Engineering that I have taken this semester. 
+Then I prepared the script for the technical interview for the Software Engineering course, which is due tomorrow (Friday).
+I am yet to finish all my pending tasks and meet my partner for completing the technical interview activity.
+
+
+Paper Discussion:
+Start our meeting by introducing each other and the tasks that we were supposed to complete. 
+Dhruveel was assigned to talk to all the junior engineers present in the team to understand if they are satisfied with the regular stand-up meetings or not.
+Now Dhruveel will give his update.
+Next Sandeep’s and Aruj’s task is to talk to all the senior engineers present in the company and try to analyze how many of them are in favor of stand-up meetings or not.
+Sandeep and Aruj will now discuss how their discussion is proceeding.
+Finally, Mohith will decide how this team will proceed forward with their task. He will compile all the things discussed by Sandeep, Aruj, and Dhruveel and assign further targets to each of them.
+
+
+Branching:
+
+https://github.com/MohithKamanuru/CodeEnvironments

@@ -13,3 +13,6 @@ stand up meeting.
 
 This is Sandeep Chinnareddy - I took the role of Contributor #2, I am of the opinion that Scrum meetings actually tend to turn 
 monotonous and redundant when done on short intervals. I believe that seperating each scrum call from the next by atleast 2 days will increase the overall efficiency of the team.  
+
+# Dhruveel Chouhan
+This is Dhruveel Chouhan - I was also a Contributor. I think Scrum meetings are important if kept short. They should be conducted every week but should be of maximum 30 mins not more than that. Employees should not feel they are overwhelmed because of meetings.

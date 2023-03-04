@@ -1,3 +1,60 @@
+Standup Meeting
+
+Agenda :  
+1) what you did 
+2) what you need to do next
+3) what is blocking you.
+4) Paper discussion
+
+
+Minutes:
+
+Sandeep: 
+read the assignment documentation for SE-HW3, 
+reviewed the research paper published in Big Data Engineering and came up with a one paragraph summary of the technology. 
+finished Assignment 2 of Big Data Engineering. 
+Next Steps: Mock Technical Interview with Aruj
+Blocks: 
+
+Mohith: 
+I had a technical interview with a fellow student as a part of my Homework assignment, apart from that I have completed designing a API for the project work.
+Tomorrow I have meeting with a undergraduate regarding my Research work, I will be working on the presentation slides today.
+Also, I have to complete my Software Engineering workshop today.
+I have bit blocking sort of delay for 1 of my Machine learning assignments as I couldnt give much time for the same. I am planning to do that too today.
+
+
+Dhruveel: 
+What I did: Worked on AML assignment 1. Built a Logistic Regression model. 
+Next Steps: I have to write a report the same. 
+What is blocking me: I am new to machine learning so I have to read a lot of documentation to do the assignment. This process is time consuming and is blocking me.
+
+Aruj:-
+Today I completed my compulsory reading for Apache Spark, which will be useful in the course Big Data Engineering that I have taken this semester. 
+Then I prepared the script for the technical interview for the Software Engineering course, which is due tomorrow (Friday).
+I am yet to finish all my pending tasks and meet my partner for completing the technical interview activity.
+
+
+Conducting stand up meeting:
+Start our meeting by introducing each other and the tasks that we were supposed to complete. 
+Dhruveel was assigned to talk to all the junior engineers present in the team to understand if they are satisfied with the regular stand-up meetings or not.
+Now Dhruveel will give his update.
+Next Sandeep’s and Aruj’s task is to talk to all the senior engineers present in the company and try to analyze how many of them are in favor of stand-up meetings or not.
+Sandeep and Aruj will now discuss how their discussion is proceeding.
+Finally, Mohith will decide how this team will proceed forward with their task. He will compile all the things discussed by Sandeep, Aruj, and Dhruveel and assign further targets to each of them.
+
+Opinions on Paper Discussion:
+Aruj-: In my opinion we should have stand up meetings but not everyday. Maybe we can have stand up meetings only for like 2-3 days in a week and discuss all the important things in that meeting.
+Dhruveel:- I think Scrum meetings are important if kept short. They should be conducted every week but should be of maximum 30 mins not more than that. Employees should not feel they are overwhelmed because of meetings. 
+Sandeep: I believe that Scrum meetings are not efficient if conducted everyday. I strongly believe that scrum meetings must be kept short and must be held at long enough intervals.
+Mohith: I feel like it is very important to have daily scrum meetings. As this is the place and time where the team mates gather to discuss the progress. And it helps individual to get better picture of whats happening around in the team.
+Duing my experience as SE, we used to change the roles for the scrum master, so that very one participates and knows whats happening in the team, which actually improves the knowledge.
+
+
+Branching:
+
+https://github.com/MohithKamanuru/CodeEnvironments
+
+
 # Mohith Kamanuru
 
 As one of the contributors, I expressed my views on the efficacy of conducting a daily stand-up meeting with the team. 
